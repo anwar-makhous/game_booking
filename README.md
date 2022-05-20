@@ -1,16 +1,19 @@
-# game_booking
+# Yalla Goal demo
 
-A new Flutter project.
+## State Management Pattern: Provider
 
-## Getting Started
+## Project Architecture : MVC
 
-This project is a starting point for a Flutter application.
+### Models:
+I create two models: game model and user model, user model is not used in the code yet but I implemented it in order to add authentication later
 
-A few resources to get you started if this is your first Flutter project:
+### Views:
+there are two pages in the app: home page and from page, I implemented the sub widgets indside thier related classes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Controllers:
+using change notifier provider classes I created two controllers:
+user provider: in order to add authentication later
+games provider: to control games features: add, delete, update...etc
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Translations Folder:
+contains json key-values for localization
