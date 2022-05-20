@@ -8,7 +8,7 @@
 I create two models: game model and user model, user model is not used in the code yet but I implemented it in order to add authentication later
 
 ### Views:
-there are two pages in the app: home page and from page, I implemented the sub widgets indside thier related classes
+there are two pages in the app: home page and form page, I implemented the sub widgets inside their related classes
 
 ### Controllers:
 using change notifier provider classes I created two controllers:
