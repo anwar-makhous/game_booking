@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1228856522/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1228856522/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1876141298/android.image_picker_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1876141298/android.image_picker_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2019518073/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/2019518073/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1818500176/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1818500176/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-950021345/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-950021345/android.url_launcher_android.iml" />
+    </modules>
+  </component>
+</project>
