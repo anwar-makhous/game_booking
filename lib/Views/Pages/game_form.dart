@@ -478,7 +478,9 @@ class _GameFormState extends State<GameForm> {
             width: MediaQuery.of(context).size.width * .4,
             height: MediaQuery.of(context).size.height * .075,
             child: ElevatedButton(
-              style: ElevatedButton.styleFrom(primary: Colors.green),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.green,
+              ),
               onPressed: () {
                 showWhatsAppInviteDialog(context);
               },
@@ -497,7 +499,9 @@ class _GameFormState extends State<GameForm> {
             width: MediaQuery.of(context).size.width * .4,
             height: MediaQuery.of(context).size.height * .075,
             child: ElevatedButton(
-              style: ElevatedButton.styleFrom(primary: Colors.red),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.red,
+              ),
               onPressed: () {
                 provider.deleteGame(id);
                 Navigator.pop(context);
