@@ -1,7 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.YallaHarek.YallaGoal">
-   <application
-        android:label="Yalla Goal"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="game_booking"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

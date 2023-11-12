@@ -1,4 +1,4 @@
-package com.YallaHarek.YallaGoal
+package com.example.game_booking
 
 import io.flutter.embedding.android.FlutterActivity
 
